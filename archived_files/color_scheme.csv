@@ -1,0 +1,1242 @@
+﻿commoditycode_2,,color,Category,Name
+101,1,pink,Animal & Animal Products,Horses
+102,1,pink,Animal & Animal Products,Bovine
+103,1,pink,Animal & Animal Products,Swine
+104,1,pink,Animal & Animal Products,Sheep
+105,1,pink,Animal & Animal Products,Fowl
+106,1,pink,Animal & Animal Products,Other live animals
+201,2,pink,Animal & Animal Products,Beef
+202,2,pink,Animal & Animal Products,Beef (frozen)
+203,2,pink,Animal & Animal Products,Pork
+204,2,pink,Animal & Animal Products,Lamb
+205,2,pink,Animal & Animal Products,Horse meat
+206,2,pink,Animal & Animal Products,Edible offal
+207,2,pink,Animal & Animal Products,Poultry
+208,2,pink,Animal & Animal Products,Other meat
+209,2,pink,Animal & Animal Products,Pig and poultry fat
+210,2,pink,Animal & Animal Products,Preserved meat
+301,3,pink,Animal & Animal Products,Live Fish
+302,3,pink,Animal & Animal Products,"Fish, excluding fillets"
+303,3,pink,Animal & Animal Products,"Frozen fish, excluding fillets"
+304,3,pink,Animal & Animal Products,Fish fillets
+305,3,pink,Animal & Animal Products,Preserved fish
+306,3,pink,Animal & Animal Products,Crustaceans
+307,3,pink,Animal & Animal Products,Molluscs
+401,4,pink,Animal & Animal Products,Milk
+402,4,pink,Animal & Animal Products,"Milk, concentrated"
+403,4,pink,Animal & Animal Products,Fermented milk products
+404,4,pink,Animal & Animal Products,Whey
+405,4,pink,Animal & Animal Products,Butter
+406,4,pink,Animal & Animal Products,Cheese
+407,4,pink,Animal & Animal Products,"Eggs, in shell"
+408,4,pink,Animal & Animal Products,Egg yolks
+409,4,pink,Animal & Animal Products,Honey
+410,4,pink,Animal & Animal Products,"Edible animal products, n.e.c."
+501,5,pink,Animal & Animal Products,"Human hair, unworked"
+502,5,pink,Animal & Animal Products,Brushmaking hair
+503,5,pink,Animal & Animal Products,Other
+504,5,pink,Animal & Animal Products,"Animal guts, except fish"
+505,5,pink,Animal & Animal Products,Feathers and down
+506,5,pink,Animal & Animal Products,"Bones, simply prepared"
+507,5,pink,Animal & Animal Products,Whalebone & horns
+508,5,pink,Animal & Animal Products,Coral and shells
+509,5,pink,Animal & Animal Products,Sponges of animal origin
+510,5,pink,Animal & Animal Products,Animal products used in pharmaceuticals
+511,5,pink,Animal & Animal Products,Animal products n.e.c.
+601,6,yellow,Vegetable Products,Flower bulbs
+602,6,yellow,Vegetable Products,Other live plants
+603,6,yellow,Vegetable Products,Cut flowers
+604,6,yellow,Vegetable Products,Other parts of plants
+701,7,yellow,Vegetable Products,Potatoes
+702,7,yellow,Vegetable Products,Tomatoes
+703,7,yellow,Vegetable Products,"Onions, shallots, garlic"
+704,7,yellow,Vegetable Products,"Cabbages, cauliflowers, broccoli"
+705,7,yellow,Vegetable Products,Lettuce
+706,7,yellow,Vegetable Products,Carrots & turnips
+707,7,yellow,Vegetable Products,Cucumbers
+708,7,yellow,Vegetable Products,Legumes
+709,7,yellow,Vegetable Products,Other vegetables
+710,7,yellow,Vegetable Products,Frozen vegetables
+711,7,yellow,Vegetable Products,"Vegetables, provisionally preserved"
+712,7,yellow,Vegetable Products,"Vegetables, dried"
+713,7,yellow,Vegetable Products,"Legumes, dried"
+714,7,yellow,Vegetable Products,Tubers
+801,8,yellow,Vegetable Products,Cashew nuts & coconuts
+802,8,yellow,Vegetable Products,Other nuts
+803,8,yellow,Vegetable Products,Bananas and plantains
+804,8,yellow,Vegetable Products,"Avocados, pineapples, mangos, etc."
+805,8,yellow,Vegetable Products,Citrus fruit
+806,8,yellow,Vegetable Products,Grapes
+807,8,yellow,Vegetable Products,Melons and papayas
+808,8,yellow,Vegetable Products,Apples & pears
+809,8,yellow,Vegetable Products,Peaches & cherries
+810,8,yellow,Vegetable Products,Other fresh fruit
+811,8,yellow,Vegetable Products,"Fruits and nuts, frozen"
+812,8,yellow,Vegetable Products,"Fruits and nuts, provisionally preserved"
+813,8,yellow,Vegetable Products,"Fruits, dried"
+814,8,yellow,Vegetable Products,Peel of citrus fruit or melons
+901,9,yellow,Vegetable Products,Coffee
+902,9,yellow,Vegetable Products,Tea
+903,9,yellow,Vegetable Products,Mate
+904,9,yellow,Vegetable Products,Pepper
+905,9,yellow,Vegetable Products,Vanilla
+906,9,yellow,Vegetable Products,Cinnamon
+907,9,yellow,Vegetable Products,Cloves
+908,9,yellow,Vegetable Products,Nutmeg
+909,9,yellow,Vegetable Products,"Anise, fennel, etc."
+910,9,yellow,Vegetable Products,Spices
+1001,10,yellow,Vegetable Products,Wheat and meslin
+1002,10,yellow,Vegetable Products,Rye
+1003,10,yellow,Vegetable Products,Barley
+1004,10,yellow,Vegetable Products,Oats
+1005,10,yellow,Vegetable Products,Corn
+1006,10,yellow,Vegetable Products,Rice
+1007,10,yellow,Vegetable Products,Grain sorghum
+1008,10,yellow,Vegetable Products,Other cereals
+1101,11,yellow,Vegetable Products,Wheat or meslin flour
+1102,11,yellow,Vegetable Products,Cereal flours
+1103,11,yellow,Vegetable Products,Cereal meals
+1104,11,yellow,Vegetable Products,Worked cereal grains
+1105,11,yellow,Vegetable Products,Potato flour
+1106,11,yellow,Vegetable Products,Flour of dried legumes
+1107,11,yellow,Vegetable Products,Malt
+1108,11,yellow,Vegetable Products,Starches
+1109,11,yellow,Vegetable Products,Wheat gluten
+1201,12,yellow,Vegetable Products,Soya beans
+1202,12,yellow,Vegetable Products,Peanuts
+1203,12,yellow,Vegetable Products,Copra
+1204,12,yellow,Vegetable Products,Linseed
+1205,12,yellow,Vegetable Products,Rape or colza seeds
+1206,12,yellow,Vegetable Products,Sunflower seeds
+1207,12,yellow,Vegetable Products,Other oil seeds
+1208,12,yellow,Vegetable Products,Flours of oil seeds
+1209,12,yellow,Vegetable Products,Seeds used for sowing
+1210,12,yellow,Vegetable Products,Hop cones
+1211,12,yellow,Vegetable Products,"Plants used in perfumery, pharmacy or insecticide"
+1212,12,yellow,Vegetable Products,Seaweeds & edible vegetable products
+1213,12,yellow,Vegetable Products,Cereal straw and husks
+1214,12,yellow,Vegetable Products,Forage products
+1301,13,yellow,Vegetable Products,Lac
+1302,13,yellow,Vegetable Products,Vegetable saps and extracts
+1401,14,yellow,Vegetable Products,Vegetable materials used for plaiting
+1402,14,yellow,Vegetable Products,Other
+1403,14,yellow,Vegetable Products,Other
+1404,14,yellow,Vegetable Products,Vegetable products n.e.c.
+1501,15,yellow,Vegetable Products,"Pig and poultry fat, rendered"
+1502,15,yellow,Vegetable Products,"Bovine, sheep and goat fats"
+1503,15,yellow,Vegetable Products,"Lard oil, tallow oil etc."
+1504,15,yellow,Vegetable Products,Fish oils
+1505,15,yellow,Vegetable Products,Wool grease
+1506,15,yellow,Vegetable Products,Other animal fats and oils
+1507,15,yellow,Vegetable Products,Soybean oil
+1508,15,yellow,Vegetable Products,Peanut oil
+1509,15,yellow,Vegetable Products,Olive oil
+1510,15,yellow,Vegetable Products,"Olive oil, blended"
+1511,15,yellow,Vegetable Products,Palm oil
+1512,15,yellow,Vegetable Products,Sunflower seed oil
+1513,15,yellow,Vegetable Products,Coconut & palm kernel oil
+1514,15,yellow,Vegetable Products,"Rapeseed, colza or mustard oil,"
+1515,15,yellow,Vegetable Products,Other vegetable fats and oils
+1516,15,yellow,Vegetable Products,"Vegetable fats, hydrogenated"
+1517,15,yellow,Vegetable Products,Margarine
+1518,15,yellow,Vegetable Products,"Animal or vegetable fats and oils, processed"
+1519,15,yellow,Vegetable Products,Stearic acid
+1520,15,yellow,Vegetable Products,Glycerol
+1521,15,yellow,Vegetable Products,Vegetable waxes and beeswax
+1522,15,yellow,Vegetable Products,Degras and wax residues
+1601,16,orange,Foodstuffs,Sausages
+1602,16,orange,Foodstuffs,Other prepared or preserved meat
+1603,16,orange,Foodstuffs,Extracts and juices of meat or fish
+1604,16,orange,Foodstuffs,Prepared or preserved fish
+1605,16,orange,Foodstuffs,Prepared aquatic invertibrates
+1701,17,orange,Foodstuffs,Sugarcane & sucrose
+1702,17,orange,Foodstuffs,Other sugars
+1703,17,orange,Foodstuffs,Molasses
+1704,17,orange,Foodstuffs,Confectionery sugar
+1801,18,orange,Foodstuffs,Cocoa beans
+1802,18,orange,Foodstuffs,Cocoa residues
+1803,18,orange,Foodstuffs,Cocoa paste
+1804,18,orange,Foodstuffs,Cocoa butter
+1805,18,orange,Foodstuffs,Cocoa powder
+1806,18,orange,Foodstuffs,Chocolates
+1901,19,orange,Foodstuffs,Malt extract
+1902,19,orange,Foodstuffs,Pasta
+1903,19,orange,Foodstuffs,Tapioca
+1904,19,orange,Foodstuffs,Cereal foods
+1905,19,orange,Foodstuffs,Bakery products
+2001,20,orange,Foodstuffs,Pickled fruits and vegetables
+2002,20,orange,Foodstuffs,"Tomatoes, prepared or preserved"
+2003,20,orange,Foodstuffs,"Mushrooms, prepared or preserved"
+2004,20,orange,Foodstuffs,"Other vegetables, frozen"
+2005,20,orange,Foodstuffs,"Other vegetables, prepared or preserved"
+2006,20,orange,Foodstuffs,"Vegetables, fruits and nuts, preserved by sugar"
+2007,20,orange,Foodstuffs,"Jams, jellies and marmalades"
+2008,20,orange,Foodstuffs,"Fruits and nuts, otherwise prepared"
+2009,20,orange,Foodstuffs,Fruit juices
+2101,21,orange,Foodstuffs,Coffee extracts
+2102,21,orange,Foodstuffs,Yeasts
+2103,21,orange,Foodstuffs,Sauces and seasonings
+2104,21,orange,Foodstuffs,Soups and broths
+2105,21,orange,Foodstuffs,Ice cream
+2106,21,orange,Foodstuffs,Food preparations n.e.c.
+2201,22,orange,Foodstuffs,Waters
+2202,22,orange,Foodstuffs,"Waters, flavored or sweetened"
+2203,22,orange,Foodstuffs,Beer
+2204,22,orange,Foodstuffs,Wine
+2205,22,orange,Foodstuffs,"Wine, flavored"
+2206,22,orange,Foodstuffs,Other fermented beverages
+2207,22,orange,Foodstuffs,Ethyl alcohol > 80%
+2208,22,orange,Foodstuffs,Spirits < 80% alcohol
+2209,22,orange,Foodstuffs,Vinegars
+2301,23,orange,Foodstuffs,"Flours of fish, for animal feed"
+2302,23,orange,Foodstuffs,Cereal residues
+2303,23,orange,Foodstuffs,Starch residues
+2304,23,orange,Foodstuffs,Solid soybean residues
+2305,23,orange,Foodstuffs,Solid peanut residues
+2306,23,orange,Foodstuffs,Solid vegetable oil and fat residues
+2307,23,orange,Foodstuffs,Wine lees
+2308,23,orange,Foodstuffs,Vegetable materials for animal feeding
+2309,23,orange,Foodstuffs,Animal feed
+2401,24,orange,Foodstuffs,Unmanufactured tobacco
+2402,24,orange,Foodstuffs,Cigars and cigarettes
+2403,24,orange,Foodstuffs,Other manufactured tobacco
+2501,25,chocolate,Mineral Products,Salt
+2502,25,chocolate,Mineral Products,Unroasted iron pyrites
+2503,25,chocolate,Mineral Products,"Sulphur, crude"
+2504,25,chocolate,Mineral Products,Natural graphite
+2505,25,chocolate,Mineral Products,Natural sands
+2506,25,chocolate,Mineral Products,Quartz
+2507,25,chocolate,Mineral Products,Kaolin
+2508,25,chocolate,Mineral Products,Clays
+2509,25,chocolate,Mineral Products,Chalk
+2510,25,chocolate,Mineral Products,Natural calcium phosphates
+2511,25,chocolate,Mineral Products,Natural barium sulfate
+2512,25,chocolate,Mineral Products,Siliceous fossil meals and earths
+2513,25,chocolate,Mineral Products,Natural abrasives
+2514,25,chocolate,Mineral Products,Slate
+2515,25,chocolate,Mineral Products,Marble
+2516,25,chocolate,Mineral Products,Granite
+2517,25,chocolate,Mineral Products,Gravel
+2518,25,chocolate,Mineral Products,Dolomite
+2519,25,chocolate,Mineral Products,Natural magnesia
+2520,25,chocolate,Mineral Products,Gypsum
+2521,25,chocolate,Mineral Products,Limstone
+2522,25,chocolate,Mineral Products,Quicklime
+2523,25,chocolate,Mineral Products,Cements
+2524,25,chocolate,Mineral Products,Asbestos
+2525,25,chocolate,Mineral Products,Mica
+2526,25,chocolate,Mineral Products,Natural steatite
+2528,25,chocolate,Mineral Products,Natural borates
+2529,25,chocolate,Mineral Products,Feldspar
+2530,25,chocolate,Mineral Products,Mineral substances n.e.c.
+2601,26,chocolate,Mineral Products,Iron ores and concentrates
+2602,26,chocolate,Mineral Products,Manganese > 47% by weight
+2603,26,chocolate,Mineral Products,Copper ore
+2604,26,chocolate,Mineral Products,Nickel ore
+2605,26,chocolate,Mineral Products,Cobalt ore
+2606,26,chocolate,Mineral Products,Aluminum ore
+2607,26,chocolate,Mineral Products,Lead ore
+2608,26,chocolate,Mineral Products,Zinc ore
+2609,26,chocolate,Mineral Products,Tin ore
+2610,26,chocolate,Mineral Products,Chromium ore
+2611,26,chocolate,Mineral Products,Tungsten ore
+2612,26,chocolate,Mineral Products,Uranium ore
+2613,26,chocolate,Mineral Products,Molybdenum ore
+2614,26,chocolate,Mineral Products,Titanium ore
+2615,26,chocolate,Mineral Products,Zirconium ore
+2616,26,chocolate,Mineral Products,Precious metal ores
+2617,26,chocolate,Mineral Products,Other ores
+2618,26,chocolate,Mineral Products,Granulated iron or steel slag
+2619,26,chocolate,Mineral Products,Iron or steel slag
+2620,26,chocolate,Mineral Products,"Slag, ash and residues containing metals"
+2621,26,chocolate,Mineral Products,Other slag and ash
+2701,27,chocolate,Mineral Products,Coal
+2702,27,chocolate,Mineral Products,Lignite
+2703,27,chocolate,Mineral Products,Peat
+2704,27,chocolate,Mineral Products,Coke
+2705,27,chocolate,Mineral Products,Non-petroleum gases
+2706,27,chocolate,Mineral Products,"Tar distilled from coal, lignite etc."
+2707,27,chocolate,Mineral Products,Oils etc. from high temperature coal tar
+2708,27,chocolate,Mineral Products,Pitch and pitch coke
+2709,27,chocolate,Mineral Products,"Petroleum oils, crude"
+2710,27,chocolate,Mineral Products,"Petroleum oils, refined"
+2711,27,chocolate,Mineral Products,Petroleum gases
+2712,27,chocolate,Mineral Products,Petroleum jelly
+2713,27,chocolate,Mineral Products,Petroleum coke
+2714,27,chocolate,Mineral Products,"Bitumen and asphalt, natural"
+2715,27,chocolate,Mineral Products,Bituminous mixtures
+2716,27,chocolate,Mineral Products,Electrical energy
+2801,28,black,Chemicals & Allied Industries,Iodine
+2802,28,black,Chemicals & Allied Industries,"Sulfur, sublimed or precipitated"
+2803,28,black,Chemicals & Allied Industries,Carbon
+2804,28,black,Chemicals & Allied Industries,Silicon & rare gases
+2805,28,black,Chemicals & Allied Industries,Rare-earth metals
+2806,28,black,Chemicals & Allied Industries,Hydrochloric acid
+2807,28,black,Chemicals & Allied Industries,"Sulfiric acid, oleum"
+2808,28,black,Chemicals & Allied Industries,Sulfonitric acids
+2809,28,black,Chemicals & Allied Industries,Phosphoric acid etc.
+2810,28,black,Chemicals & Allied Industries,Oxides of boron; boric acids
+2811,28,black,Chemicals & Allied Industries,Other inorganic acids
+2812,28,black,Chemicals & Allied Industries,Halides of nonmetals
+2813,28,black,Chemicals & Allied Industries,Sulfides of nonmetals
+2814,28,black,Chemicals & Allied Industries,Ammonia
+2815,28,black,Chemicals & Allied Industries,Sodium hydroxide
+2816,28,black,Chemicals & Allied Industries,Hydroxides or peroxides of magnesium
+2817,28,black,Chemicals & Allied Industries,Zinc oxide or peroxide
+2818,28,black,Chemicals & Allied Industries,Aluminum oxide
+2819,28,black,Chemicals & Allied Industries,Chromium oxides and hydroxides
+2820,28,black,Chemicals & Allied Industries,Manganese oxides
+2821,28,black,Chemicals & Allied Industries,Iron oxides and hydroxides
+2822,28,black,Chemicals & Allied Industries,Cobalt oxides and hydroxides
+2823,28,black,Chemicals & Allied Industries,Titanium oxides
+2824,28,black,Chemicals & Allied Industries,Lead oxides
+2825,28,black,Chemicals & Allied Industries,"Metal base oxides, n.e.c."
+2826,28,black,Chemicals & Allied Industries,Flourides
+2827,28,black,Chemicals & Allied Industries,"Chlorides, bromides, iodides etc."
+2828,28,black,Chemicals & Allied Industries,Hyopchlorites
+2829,28,black,Chemicals & Allied Industries,Sodium chlorate
+2830,28,black,Chemicals & Allied Industries,Sulfides; polysulfides
+2831,28,black,Chemicals & Allied Industries,Dithionites and sulfoxylates
+2832,28,black,Chemicals & Allied Industries,Sulfites
+2833,28,black,Chemicals & Allied Industries,Sulfates
+2834,28,black,Chemicals & Allied Industries,"Nitrites, nitrates"
+2835,28,black,Chemicals & Allied Industries,Phosphates
+2836,28,black,Chemicals & Allied Industries,Carbonates
+2837,28,black,Chemicals & Allied Industries,Cyanides
+2838,28,black,Chemicals & Allied Industries,Other
+2839,28,black,Chemicals & Allied Industries,Silicates
+2840,28,black,Chemicals & Allied Industries,Borates
+2841,28,black,Chemicals & Allied Industries,Salts of oxometallic acids
+2842,28,black,Chemicals & Allied Industries,Other salts of acids
+2843,28,black,Chemicals & Allied Industries,Compounds of precious metals
+2844,28,black,Chemicals & Allied Industries,Uranium
+2845,28,black,Chemicals & Allied Industries,Non-radioactive isotopes
+2846,28,black,Chemicals & Allied Industries,Compounds of rare-earth metals
+2847,28,black,Chemicals & Allied Industries,Hydrogen peroxide
+2848,28,black,Chemicals & Allied Industries,Phosphides
+2849,28,black,Chemicals & Allied Industries,Carbides
+2850,28,black,Chemicals & Allied Industries,"Hydrides, nitrides, azides, silicides and borides"
+2851,28,black,Chemicals & Allied Industries,"Inorganic compounds, liquid or compressed air"
+2901,29,black,Chemicals & Allied Industries,Acyclic hydrocarbons
+2902,29,black,Chemicals & Allied Industries,Cyclic hydrocarbons
+2903,29,black,Chemicals & Allied Industries,Halogenated derivatives of hydrocarbons
+2904,29,black,Chemicals & Allied Industries,"Sulfonated, nitrated derivatives of hydrocarbons"
+2905,29,black,Chemicals & Allied Industries,Acyclic alcohols
+2906,29,black,Chemicals & Allied Industries,Cyclic alcohols
+2907,29,black,Chemicals & Allied Industries,"Phenols, phenol-alcohols"
+2908,29,black,Chemicals & Allied Industries,Derivatives of phenols
+2909,29,black,Chemicals & Allied Industries,Ethers
+2910,29,black,Chemicals & Allied Industries,Epoxides
+2911,29,black,Chemicals & Allied Industries,Acetals and hemiacetals
+2912,29,black,Chemicals & Allied Industries,Aldehydes
+2913,29,black,Chemicals & Allied Industries,Derivatives of aldehydes
+2914,29,black,Chemicals & Allied Industries,Ketones and quinones
+2915,29,black,Chemicals & Allied Industries,Saturated acyclic monocarboxylic acids
+2916,29,black,Chemicals & Allied Industries,Unsaturated acyclic monocarboxylic acids
+2917,29,black,Chemicals & Allied Industries,Polycarboxylic acids
+2918,29,black,Chemicals & Allied Industries,Carboxylic acids with additional oxygen function
+2919,29,black,Chemicals & Allied Industries,Phosporic esters
+2920,29,black,Chemicals & Allied Industries,Esters of other inorganic acids of nonmetals
+2921,29,black,Chemicals & Allied Industries,Amine-function compounds
+2922,29,black,Chemicals & Allied Industries,Oxygen-function amino-compounds
+2923,29,black,Chemicals & Allied Industries,Quaternary ammonium salts and hydroxides
+2924,29,black,Chemicals & Allied Industries,Carboxyamide-function compounds
+2925,29,black,Chemicals & Allied Industries,Carboxyimide-function compounds
+2926,29,black,Chemicals & Allied Industries,Nitrile-function compounds
+2927,29,black,Chemicals & Allied Industries,"Diazo-, azo-, or azoxy-compounds"
+2928,29,black,Chemicals & Allied Industries,Organix derivatives of hydrazine
+2929,29,black,Chemicals & Allied Industries,Isocyanates
+2930,29,black,Chemicals & Allied Industries,Organo-sulfur compounds
+2931,29,black,Chemicals & Allied Industries,Other organo-inorganic compounds
+2932,29,black,Chemicals & Allied Industries,Heterocyclic compounds with oxygen hetero-atom(s) only
+2933,29,black,Chemicals & Allied Industries,Heterocyclic compounds with nitrogen hetero-atom(s) only
+2934,29,black,Chemicals & Allied Industries,Nucleic acids and their salts
+2935,29,black,Chemicals & Allied Industries,Sulfonamides
+2936,29,black,Chemicals & Allied Industries,Vitamins
+2937,29,black,Chemicals & Allied Industries,Hormones
+2938,29,black,Chemicals & Allied Industries,Glycosides
+2939,29,black,Chemicals & Allied Industries,Vegetable alkaloids
+2940,29,black,Chemicals & Allied Industries,"Other sugars, chemically pure"
+2941,29,black,Chemicals & Allied Industries,Antibiotics
+2942,29,black,Chemicals & Allied Industries,Other organic compounds
+3001,30,black,Chemicals & Allied Industries,Heparin for therapeutic use
+3002,30,black,Chemicals & Allied Industries,Serums and vaccines
+3003,30,black,Chemicals & Allied Industries,"Medicaments, not packaged"
+3004,30,black,Chemicals & Allied Industries,"Medicaments, packaged"
+3005,30,black,Chemicals & Allied Industries,"Wadding, gauze and bandages"
+3006,30,black,Chemicals & Allied Industries,Pharmaceutical goods
+3101,31,black,Chemicals & Allied Industries,Animal or vegetable fertilizers
+3102,31,black,Chemicals & Allied Industries,Nitrogenous fertilizers
+3103,31,black,Chemicals & Allied Industries,Phosphatic fertilizers
+3104,31,black,Chemicals & Allied Industries,Potassic fertilizers
+3105,31,black,Chemicals & Allied Industries,Mixed fertilizers
+3201,32,black,Chemicals & Allied Industries,Vegetable tanning extracts
+3202,32,black,Chemicals & Allied Industries,Synthetic tanning substances
+3203,32,black,Chemicals & Allied Industries,Coloring matter of animal or vegetable origin
+3204,32,black,Chemicals & Allied Industries,Synthetic organic coloring matter
+3205,32,black,Chemicals & Allied Industries,Color lakes
+3206,32,black,Chemicals & Allied Industries,Other coloring matter
+3207,32,black,Chemicals & Allied Industries,Prepared pigments
+3208,32,black,Chemicals & Allied Industries,"Paints and varnishes, nonaqueous"
+3209,32,black,Chemicals & Allied Industries,"Paints and varnishes, aqueous"
+3210,32,black,Chemicals & Allied Industries,Other paints and varnishes
+3211,32,black,Chemicals & Allied Industries,Prepared driers
+3212,32,black,Chemicals & Allied Industries,"Pigments, nonaqueous"
+3213,32,black,Chemicals & Allied Industries,Artists' colors
+3214,32,black,Chemicals & Allied Industries,Glaziers' putty
+3215,32,black,Chemicals & Allied Industries,Ink
+3301,33,black,Chemicals & Allied Industries,Essential oils
+3302,33,black,Chemicals & Allied Industries,Mixtures of odoriferous subtances
+3303,33,black,Chemicals & Allied Industries,Perfumes
+3304,33,black,Chemicals & Allied Industries,Make-up preparations
+3305,33,black,Chemicals & Allied Industries,Hair products
+3306,33,black,Chemicals & Allied Industries,Dental hygiene products
+3307,33,black,Chemicals & Allied Industries,Toiletries
+3401,34,black,Chemicals & Allied Industries,Soap
+3402,34,black,Chemicals & Allied Industries,Cleaning products
+3403,34,black,Chemicals & Allied Industries,Lubricants
+3404,34,black,Chemicals & Allied Industries,Artificial and prepared waxes
+3405,34,black,Chemicals & Allied Industries,Polishes and creams
+3406,34,black,Chemicals & Allied Industries,Candles
+3407,34,black,Chemicals & Allied Industries,Modeling pastes
+3501,35,black,Chemicals & Allied Industries,Casein
+3502,35,black,Chemicals & Allied Industries,Albumins
+3503,35,black,Chemicals & Allied Industries,Gelatin
+3504,35,black,Chemicals & Allied Industries,Peptones
+3505,35,black,Chemicals & Allied Industries,Dextrins and other modified starches
+3506,35,black,Chemicals & Allied Industries,Glues and adhesives
+3507,35,black,Chemicals & Allied Industries,Enzymes
+3601,36,black,Chemicals & Allied Industries,Propellant powders
+3602,36,black,Chemicals & Allied Industries,"Prepared explosives, except gunpowder"
+3603,36,black,Chemicals & Allied Industries,Detonators
+3604,36,black,Chemicals & Allied Industries,Fireworks
+3605,36,black,Chemicals & Allied Industries,Matches
+3606,36,black,Chemicals & Allied Industries,Ferrocerium and other pyrophoric alloys
+3701,37,black,Chemicals & Allied Industries,Photographic plates
+3702,37,black,Chemicals & Allied Industries,Photographic film in rolls
+3703,37,black,Chemicals & Allied Industries,Photographic paper
+3704,37,black,Chemicals & Allied Industries,"Photographic film, not developed"
+3705,37,black,Chemicals & Allied Industries,"Photographic film, developed"
+3706,37,black,Chemicals & Allied Industries,Motion-picture film
+3707,37,black,Chemicals & Allied Industries,Chemical preparations for photographic uses
+3801,38,black,Chemicals & Allied Industries,Artificial graphite
+3802,38,black,Chemicals & Allied Industries,Activated carbon
+3803,38,black,Chemicals & Allied Industries,Tall oil
+3804,38,black,Chemicals & Allied Industries,Residual lyes
+3805,38,black,Chemicals & Allied Industries,Turpentines
+3806,38,black,Chemicals & Allied Industries,Rosin and resin acids
+3807,38,black,Chemicals & Allied Industries,Wood tar and oils
+3808,38,black,Chemicals & Allied Industries,"Insecticides, rodenticides, fungicides, etc."
+3809,38,black,Chemicals & Allied Industries,Finishing agents
+3810,38,black,Chemicals & Allied Industries,Pickling preparations for metal surfaces
+3811,38,black,Chemicals & Allied Industries,Anti-knock
+3812,38,black,Chemicals & Allied Industries,Stabilizers for rubber or plastic
+3813,38,black,Chemicals & Allied Industries,Preparations for fire extinguishers
+3814,38,black,Chemicals & Allied Industries,Organic composite solvents and thinners
+3815,38,black,Chemicals & Allied Industries,Catalytic preparations
+3816,38,black,Chemicals & Allied Industries,Refractory cements
+3817,38,black,Chemicals & Allied Industries,Mixed alkylbenzenes
+3818,38,black,Chemicals & Allied Industries,Chemical elements for electronics
+3819,38,black,Chemicals & Allied Industries,Hydraulic fluids
+3820,38,black,Chemicals & Allied Industries,Antifreezing preparation
+3821,38,black,Chemicals & Allied Industries,Prepared culture media for micro-organisms
+3822,38,black,Chemicals & Allied Industries,Diagnostic or laboratory reagents
+3823,38,black,Chemicals & Allied Industries,Industrial monocarboxylic fatty acids
+3901,39,magenta,Plastics / Rubbers,Polymers of ethylene
+3902,39,magenta,Plastics / Rubbers,Polymers of propylene
+3903,39,magenta,Plastics / Rubbers,Polymers of styrene
+3904,39,magenta,Plastics / Rubbers,Polymers of vinyl chloride
+3905,39,magenta,Plastics / Rubbers,Polymers of vinyl acetate
+3906,39,magenta,Plastics / Rubbers,Acrylic polymers
+3907,39,magenta,Plastics / Rubbers,Polyacetals
+3908,39,magenta,Plastics / Rubbers,Polyamides
+3909,39,magenta,Plastics / Rubbers,Amino-resins
+3910,39,magenta,Plastics / Rubbers,Silicones in primary forms
+3911,39,magenta,Plastics / Rubbers,Petroleum resins
+3912,39,magenta,Plastics / Rubbers,Cellulose n.e.c.
+3913,39,magenta,Plastics / Rubbers,Natural polymers
+3914,39,magenta,Plastics / Rubbers,Ion-exchangers based on polymers
+3915,39,magenta,Plastics / Rubbers,Plastic waste
+3916,39,magenta,Plastics / Rubbers,Monofilament
+3917,39,magenta,Plastics / Rubbers,Plastic tubes and fittings
+3918,39,magenta,Plastics / Rubbers,Plastic floor coverings
+3919,39,magenta,Plastics / Rubbers,Self-adhesive plastic sheets
+3920,39,magenta,Plastics / Rubbers,"Other plates of plastics, noncellular and not reinforced"
+3921,39,magenta,Plastics / Rubbers,"Other plastic plates, sheets etc."
+3922,39,magenta,Plastics / Rubbers,"Baths, sinks etc."
+3923,39,magenta,Plastics / Rubbers,Packing lids
+3924,39,magenta,Plastics / Rubbers,Plastic household articles
+3925,39,magenta,Plastics / Rubbers,Plastic builders' ware
+3926,39,magenta,Plastics / Rubbers,Other articles of plastic
+4001,40,magenta,Plastics / Rubbers,Natural rubber
+4002,40,magenta,Plastics / Rubbers,Synthetic rubber
+4003,40,magenta,Plastics / Rubbers,Reclaimed rubber
+4004,40,magenta,Plastics / Rubbers,Scrap of rubber
+4005,40,magenta,Plastics / Rubbers,Compounded rubber
+4006,40,magenta,Plastics / Rubbers,Unvulcanized rubber rods
+4007,40,magenta,Plastics / Rubbers,Vulcanized rubber thread and cord
+4008,40,magenta,Plastics / Rubbers,Vulcanized rubber plates
+4009,40,magenta,Plastics / Rubbers,Vulcanized rubber tubes
+4010,40,magenta,Plastics / Rubbers,Conveyor belts of vulcanized rubber
+4011,40,magenta,Plastics / Rubbers,New pneumatic tires of rubber
+4012,40,magenta,Plastics / Rubbers,Used pneumatic tires of rubber
+4013,40,magenta,Plastics / Rubbers,Rubber inner tubes
+4014,40,magenta,Plastics / Rubbers,Rubber hygenic or pharmeceutical items
+4015,40,magenta,Plastics / Rubbers,Vulcanized rubber articles of apparel
+4016,40,magenta,Plastics / Rubbers,Other articles of vulcanized rubber
+4017,40,magenta,Plastics / Rubbers,Hard rubber
+4101,41,pink,"Raw Hides, Skins, Leather, & Furs",Raw hides of bovines or equines
+4102,41,pink,"Raw Hides, Skins, Leather, & Furs",Raw skins of sheep or lambs
+4103,41,pink,"Raw Hides, Skins, Leather, & Furs",Other raw hides and skins
+4104,41,pink,"Raw Hides, Skins, Leather, & Furs",Tanned hides of bovines or equines
+4105,41,pink,"Raw Hides, Skins, Leather, & Furs",Tanned sheepskins
+4106,41,pink,"Raw Hides, Skins, Leather, & Furs",Tanned skins of other animals
+4107,41,pink,"Raw Hides, Skins, Leather, & Furs",Bovine leather further prepared
+4108,41,pink,"Raw Hides, Skins, Leather, & Furs",Chamois leather
+4109,41,pink,"Raw Hides, Skins, Leather, & Furs",Patent leather
+4110,41,pink,"Raw Hides, Skins, Leather, & Furs",Waste of leather
+4111,41,pink,"Raw Hides, Skins, Leather, & Furs",Composition leather
+4201,42,pink,"Raw Hides, Skins, Leather, & Furs",Saddlery and harnesses
+4202,42,pink,"Raw Hides, Skins, Leather, & Furs",Trunks or cases
+4203,42,pink,"Raw Hides, Skins, Leather, & Furs",Leather apparel
+4204,42,pink,"Raw Hides, Skins, Leather, & Furs",Articles of leather for technical uses
+4205,42,pink,"Raw Hides, Skins, Leather, & Furs",Other articles of leather
+4206,42,pink,"Raw Hides, Skins, Leather, & Furs",Articles of gut
+4301,43,pink,"Raw Hides, Skins, Leather, & Furs",Other raw furskins
+4302,43,pink,"Raw Hides, Skins, Leather, & Furs",Other tanned furskins
+4303,43,pink,"Raw Hides, Skins, Leather, & Furs",Furskin apparel
+4304,43,pink,"Raw Hides, Skins, Leather, & Furs",Artificial fur
+4401,44,cyan,Wood & Wood Products,Fuel wood
+4402,44,cyan,Wood & Wood Products,Wood charcoal
+4403,44,cyan,Wood & Wood Products,Wood in the rough
+4404,44,cyan,Wood & Wood Products,Strips and other pieces of wood
+4405,44,cyan,Wood & Wood Products,Wood wool or flour
+4406,44,cyan,Wood & Wood Products,Wooden railway ties
+4407,44,cyan,Wood & Wood Products,Wood sawn lengthwise
+4408,44,cyan,Wood & Wood Products,Sheets for veneering for plywood
+4409,44,cyan,Wood & Wood Products,Wood shaped along its edges
+4410,44,cyan,Wood & Wood Products,Particle board and similar board
+4411,44,cyan,Wood & Wood Products,Fiberboard of wood
+4412,44,cyan,Wood & Wood Products,Plywood
+4413,44,cyan,Wood & Wood Products,Densified wood
+4414,44,cyan,Wood & Wood Products,Wooden frames
+4415,44,cyan,Wood & Wood Products,Packing boxes
+4416,44,cyan,Wood & Wood Products,"Casks, barrels, etc. of wood"
+4417,44,cyan,Wood & Wood Products,Wooden tools
+4418,44,cyan,Wood & Wood Products,Wood carpentry for construction
+4419,44,cyan,Wood & Wood Products,Wooden kitchenware
+4420,44,cyan,Wood & Wood Products,"Wood marquetry, ornaments, etc."
+4421,44,cyan,Wood & Wood Products,Other articles of wood
+4501,45,cyan,Wood & Wood Products,"Natural cork, raw"
+4502,45,cyan,Wood & Wood Products,"Natural cork, debacked"
+4503,45,cyan,Wood & Wood Products,Articles of natural cork
+4504,45,cyan,Wood & Wood Products,Agglomerated cork
+4601,46,cyan,Wood & Wood Products,Products of plaiting materials
+4602,46,cyan,Wood & Wood Products,Basketwork
+4701,47,cyan,Wood & Wood Products,Mechanical woodpulp
+4702,47,cyan,Wood & Wood Products,"Chemical woodpulp, dissolving grade"
+4703,47,cyan,Wood & Wood Products,"Chemical woodpulp, soda or sulfate"
+4704,47,cyan,Wood & Wood Products,"Chemical woodpulp, sulfite"
+4705,47,cyan,Wood & Wood Products,Semichemical woodpulp
+4706,47,cyan,Wood & Wood Products,Pulps of recovered paper fibers
+4707,47,cyan,Wood & Wood Products,Paper waste
+4801,48,cyan,Wood & Wood Products,Newsprint
+4802,48,cyan,Wood & Wood Products,Paper used for graphic purposes
+4803,48,cyan,Wood & Wood Products,Tissue
+4804,48,cyan,Wood & Wood Products,Uncoated kraft paper and paperboard
+4805,48,cyan,Wood & Wood Products,Other uncoated paper and paperboard
+4806,48,cyan,Wood & Wood Products,Transparent paper
+4807,48,cyan,Wood & Wood Products,Uncoated composite paper
+4808,48,cyan,Wood & Wood Products,Corrugated paper and paperboard
+4809,48,cyan,Wood & Wood Products,Carbon paper
+4810,48,cyan,Wood & Wood Products,"Paper and paperboard, coated with kaolin"
+4811,48,cyan,Wood & Wood Products,"Cellulose wadding, coated"
+4812,48,cyan,Wood & Wood Products,Filter blocks of paper pulp
+4813,48,cyan,Wood & Wood Products,Cigarette paper
+4814,48,cyan,Wood & Wood Products,Wallpaper
+4815,48,cyan,Wood & Wood Products,Floor coverings of paper
+4816,48,cyan,Wood & Wood Products,Other carbon paper
+4817,48,cyan,Wood & Wood Products,Letterstock
+4818,48,cyan,Wood & Wood Products,Toilet paper
+4819,48,cyan,Wood & Wood Products,Cardboard packing containers
+4820,48,cyan,Wood & Wood Products,Notebooks
+4821,48,cyan,Wood & Wood Products,Paper labels
+4822,48,cyan,Wood & Wood Products,"Bobbins, spools, cops of paper"
+4823,48,cyan,Wood & Wood Products,Other paper cut to size
+4901,49,cyan,Wood & Wood Products,"Books, brochures etc."
+4902,49,cyan,Wood & Wood Products,"Newspapers, journals and periodicals"
+4903,49,cyan,Wood & Wood Products,Children's books
+4904,49,cyan,Wood & Wood Products,"Music, printed or in manuscript"
+4905,49,cyan,Wood & Wood Products,Maps
+4906,49,cyan,Wood & Wood Products,"Architectural, engineering, etc. drawings"
+4907,49,cyan,Wood & Wood Products,Unused stamps
+4908,49,cyan,Wood & Wood Products,Transfers (decalcomanias)
+4909,49,cyan,Wood & Wood Products,Printed or illustrated postcards
+4910,49,cyan,Wood & Wood Products,Calendars
+4911,49,cyan,Wood & Wood Products,Other printed matter
+5001,50,green,Textiles,Silkworm cocoons
+5002,50,green,Textiles,Raw silk
+5003,50,green,Textiles,Silk waste
+5004,50,green,Textiles,Silk yarn
+5005,50,green,Textiles,Yarn from silk waste
+5006,50,green,Textiles,"Silk yarn, for retail sale"
+5007,50,green,Textiles,Woven silk fabrics
+5101,51,green,Textiles,Wool
+5102,51,green,Textiles,Animal hair
+5103,51,green,Textiles,Wool or animal hair waste
+5104,51,green,Textiles,Garnetted stock of wool or animal hair
+5105,51,green,Textiles,"Wool, combed"
+5106,51,green,Textiles,"Yarn of carded wool, not for retail sale"
+5107,51,green,Textiles,"Yarn of combed wool, not for retail sale"
+5108,51,green,Textiles,"Yarn of animal hair, not for retail sale"
+5109,51,green,Textiles,"Yarn of wool or animal hair, for retail sale"
+5110,51,green,Textiles,Yarn of coarse animal hair or of horsehair
+5111,51,green,Textiles,Woven fabrics of carded wool
+5112,51,green,Textiles,Woven fabrics of combed wool
+5113,51,green,Textiles,Woven fabrics of coarse animal hair
+5201,52,green,Textiles,Raw cotton
+5202,52,green,Textiles,Cotton waste
+5203,52,green,Textiles,"Cotton, carded or combed"
+5204,52,green,Textiles,Cotton sewing thread
+5205,52,green,Textiles,Cotton yarn of > 85%
+5206,52,green,Textiles,Cotton yarn of < 85%
+5207,52,green,Textiles,Cotton yarn for retail sale
+5208,52,green,Textiles,Woven fabrics of cotton of > 85% weighing < 200 g/m2
+5209,52,green,Textiles,Woven fabrics of cotton of < 85% weighing > 200 g/m2
+5210,52,green,Textiles,Woven fabrics of cotton of < 85% weighing < 200 g/m2
+5211,52,green,Textiles,Woven fabrics of cotton of < 85% weighing > 200 g/m2
+5212,52,green,Textiles,Other woven cotton fabrics
+5301,53,green,Textiles,"Flax, raw or processed"
+5302,53,green,Textiles,Hemp fiber
+5303,53,green,Textiles,Textile bast fibers
+5304,53,green,Textiles,Other
+5305,53,green,Textiles,Vegetable textile fibers
+5306,53,green,Textiles,Flax yarn
+5307,53,green,Textiles,Yarn of textile bast fibers
+5308,53,green,Textiles,Yarn of other vegetable textile fibers
+5309,53,green,Textiles,Woven fabrics of flax
+5310,53,green,Textiles,Woven fabrics of jute or of other textile bast fibers
+5311,53,green,Textiles,Woven fabrics of vegetable textile fibers
+5401,54,green,Textiles,Synthetic sowing thread
+5402,54,green,Textiles,Synthetic filament yarn
+5403,54,green,Textiles,Artificial filament yarn
+5404,54,green,Textiles,"Synthetic monofilament >67 dtex, thickness < 1mm"
+5405,54,green,Textiles,"Artificial monofilament >67dtex t<1mm, strip, straws t<5mm"
+5406,54,green,Textiles,Synthetic filament yarn for retail sale
+5407,54,green,Textiles,Woven fabrics of synthetic filament yarn
+5408,54,green,Textiles,Woven fabrics of artificial filament yarn
+5501,55,green,Textiles,Synthetic filament tow
+5502,55,green,Textiles,Artificial filament tow
+5503,55,green,Textiles,Synthetic staple fibers
+5504,55,green,Textiles,"Artificial staple fibers, not processed for spinning"
+5505,55,green,Textiles,Waste of man-made fibers
+5506,55,green,Textiles,"Synthetic staple fibers, processed"
+5507,55,green,Textiles,"Artificial staple fibers, processed"
+5508,55,green,Textiles,Synthetic staple fibers sewing thread
+5509,55,green,Textiles,"Yarn of synthetic staple fibers, not for retail sale"
+5510,55,green,Textiles,"Yarn of artificial staple fibers, not for retail sale"
+5511,55,green,Textiles,"Yarn of synthetic staple fibers, for retail sale"
+5512,55,green,Textiles,Woven fabrics of > 85% synthetic staple fibers
+5513,55,green,Textiles,Woven fabrics of < 85% synthetic staple fibers weighing < 170 g/m2
+5514,55,green,Textiles,Woven fabrics of < 85% synthetic staple fibers weighing > 170 g/m2
+5515,55,green,Textiles,Other woven fabrics of synthetic staple fibers
+5516,55,green,Textiles,Woven fabrics of artificial staple fibers
+5601,56,green,Textiles,Wadding of textile materials
+5602,56,green,Textiles,Felt
+5603,56,green,Textiles,Nonwoven textiles
+5604,56,green,Textiles,Rubber textiles
+5605,56,green,Textiles,Metallised yarn
+5606,56,green,Textiles,Gimp yarn
+5607,56,green,Textiles,Twine and ropes of baste fibers
+5608,56,green,Textiles,Nets
+5609,56,green,Textiles,"Articles of yarn, rope etc not elsewhere clasified"
+5701,57,green,Textiles,"Carpets, knotted"
+5702,57,green,Textiles,Woven carpets and rugs
+5703,57,green,Textiles,"Carpets, tufted"
+5704,57,green,Textiles,Carpets of felt
+5705,57,green,Textiles,Other carpets
+5801,58,green,Textiles,Woven pile fabrics
+5802,58,green,Textiles,Terry cloth
+5803,58,green,Textiles,Gauze
+5804,58,green,Textiles,Lace and net fabrics
+5805,58,green,Textiles,Hand-woven tapestries
+5806,58,green,Textiles,Narrow woven fabrics
+5807,58,green,Textiles,Labels and badges of textiles
+5808,58,green,Textiles,Braids in piece
+5809,58,green,Textiles,Woven fabric incorporating metal threads
+5810,58,green,Textiles,Embroidery in the piece
+5811,58,green,Textiles,Quilted textile products
+5901,59,green,Textiles,Stiffened textiles
+5902,59,green,Textiles,Tire cord fabric
+5903,59,green,Textiles,Textile fabrics impregnated with plastics
+5904,59,green,Textiles,Linoleum
+5905,59,green,Textiles,Textile wall coverings
+5906,59,green,Textiles,Rubberized textile fabrics
+5907,59,green,Textiles,"Other textile fabrics impregnated, coated or covered"
+5908,59,green,Textiles,Textile wicks
+5909,59,green,Textiles,Textile hosepiping and similar tubing
+5910,59,green,Textiles,"Transmission belts or belting, of textile material"
+5911,59,green,Textiles,Textile articles for technical use
+6001,60,green,Textiles,"Pile fabrics, knit"
+6002,60,green,Textiles,Other knitted fabrics
+6101,61,green,Textiles,"Men's overcoats, knit"
+6102,61,green,Textiles,"Women's overcoats, knit"
+6103,61,green,Textiles,"Men's suits, knit"
+6104,61,green,Textiles,"Women's suits, knit"
+6105,61,green,Textiles,"Men's shirts, knit"
+6106,61,green,Textiles,"Women's shirts, knit"
+6107,61,green,Textiles,"Men's undergarments, knit"
+6108,61,green,Textiles,"Women's undergarments, knit"
+6109,61,green,Textiles,"T-shirts, knit"
+6110,61,green,Textiles,"Sweaters, pullovers, sweatshirts etc., knit"
+6111,61,green,Textiles,"Babies' garments, knit"
+6112,61,green,Textiles,"Activewear, knit"
+6113,61,green,Textiles,Garments knit with impregnated fibers
+6114,61,green,Textiles,"Other garments, knit"
+6115,61,green,Textiles,"Socks, stockings, etc., knit"
+6116,61,green,Textiles,"Gloves, knit"
+6117,61,green,Textiles,"Other clothing accesories, knit"
+6201,62,green,Textiles,"Men's overcoats, not knit"
+6202,62,green,Textiles,"Womens overcoats, not knit"
+6203,62,green,Textiles,Men's suits and pants
+6204,62,green,Textiles,Women's suits and pants
+6205,62,green,Textiles,Men's shirts
+6206,62,green,Textiles,Women's shirts
+6207,62,green,Textiles,Men's undergarments
+6208,62,green,Textiles,Women's undergarments
+6209,62,green,Textiles,Babies' garments
+6210,62,green,Textiles,Garments made of textile felts and nonwoven fabric
+6211,62,green,Textiles,Activewear
+6212,62,green,Textiles,Brassieres
+6213,62,green,Textiles,Handkerchiefs
+6214,62,green,Textiles,"Shawls, scarves, etc."
+6215,62,green,Textiles,"Ties, bow ties and cravats"
+6216,62,green,Textiles,Gloves
+6217,62,green,Textiles,Other clothing accesories
+6301,63,green,Textiles,Blankets
+6302,63,green,Textiles,House linen
+6303,63,green,Textiles,Curtains
+6304,63,green,Textiles,Other furnishing articles
+6305,63,green,Textiles,Bags for packing goods
+6306,63,green,Textiles,"Tents, tarpaulins, etc."
+6307,63,green,Textiles,Other made up articles
+6308,63,green,Textiles,Needlecraft sets of woven fabric and yarn
+6309,63,green,Textiles,Used clothes and textiles
+6310,63,green,Textiles,Used or new rags textile scraps
+6401,64,darkgreen,Footwear / Headgear,Waterproof footwear
+6402,64,darkgreen,Footwear / Headgear,Other footwear of rubber or plastics
+6403,64,darkgreen,Footwear / Headgear,Leather footwear
+6404,64,darkgreen,Footwear / Headgear,Textile footwear
+6405,64,darkgreen,Footwear / Headgear,Other footwear
+6406,64,darkgreen,Footwear / Headgear,Parts of footwear
+6501,65,darkgreen,Footwear / Headgear,Hat forms
+6502,65,darkgreen,Footwear / Headgear,Hat shapes
+6503,65,darkgreen,Footwear / Headgear,Other
+6504,65,darkgreen,Footwear / Headgear,Hats
+6505,65,darkgreen,Footwear / Headgear,"Hats, knit"
+6506,65,darkgreen,Footwear / Headgear,Other headgear
+6507,65,darkgreen,Footwear / Headgear,Headbands
+6601,66,darkgreen,Footwear / Headgear,Umbrellas
+6602,66,darkgreen,Footwear / Headgear,Walking sticks
+6603,66,darkgreen,Footwear / Headgear,Parts of umbrellas or walking sticks
+6701,67,darkgreen,Footwear / Headgear,Feathers or down
+6702,67,darkgreen,Footwear / Headgear,Artificial flowers
+6703,67,darkgreen,Footwear / Headgear,Human animal hair prepared for use in wigs
+6704,67,darkgreen,Footwear / Headgear,Wigs
+6801,68,brown,Stone / Glass,"Flagstones, of natural stone"
+6802,68,brown,Stone / Glass,Worked building stone
+6803,68,brown,Stone / Glass,Worked slate
+6804,68,brown,Stone / Glass,Grindstones
+6805,68,brown,Stone / Glass,Natural or artificial abrasive powder
+6806,68,brown,Stone / Glass,Mineral wools and insulating materials
+6807,68,brown,Stone / Glass,Asphalt
+6808,68,brown,Stone / Glass,Panels of vegetable fibers
+6809,68,brown,Stone / Glass,Plaster articles
+6810,68,brown,Stone / Glass,"Articles of cement, of concrete or of artificial stone"
+6811,68,brown,Stone / Glass,Asbestos-cement or cellulose fiber-cement
+6812,68,brown,Stone / Glass,Asbestos fibres
+6813,68,brown,Stone / Glass,Friction material and articles thereof
+6814,68,brown,Stone / Glass,Mica articles
+6815,68,brown,Stone / Glass,Articles of stone or of other mineral substances
+6901,69,brown,Stone / Glass,"Bricks, blocks, and other ceramic goods"
+6902,69,brown,Stone / Glass,"Bricks, tiles and similar refractory ceramic constructional goods"
+6903,69,brown,Stone / Glass,Other refractory ceramic goods
+6904,69,brown,Stone / Glass,Ceramic building bricks
+6905,69,brown,Stone / Glass,Architectural ceramic ornaments
+6906,69,brown,Stone / Glass,Ceramic pipes
+6907,69,brown,Stone / Glass,Unglazed ceramic flags and pavers
+6908,69,brown,Stone / Glass,Glazed ceramic flags and pavers
+6909,69,brown,Stone / Glass,Ceramic wares for technical ware
+6910,69,brown,Stone / Glass,"Ceramic sinks, washbasins, and similar sanitary fixtures"
+6911,69,brown,Stone / Glass,Porcelain or china household articles
+6912,69,brown,Stone / Glass,Ceramic household articles
+6913,69,brown,Stone / Glass,Ornamental ceramic articles
+6914,69,brown,Stone / Glass,Other ceramic articles
+7001,70,brown,Stone / Glass,Cullet and other scraps of glass
+7002,70,brown,Stone / Glass,Glass balls
+7003,70,brown,Stone / Glass,"Glass, cast or rolled"
+7004,70,brown,Stone / Glass,Drawn and blown glass
+7005,70,brown,Stone / Glass,Float glass
+7006,70,brown,Stone / Glass,Worked glass
+7007,70,brown,Stone / Glass,Safety glass
+7008,70,brown,Stone / Glass,Multiple-walled insulating glass
+7009,70,brown,Stone / Glass,Glass mirrors
+7010,70,brown,Stone / Glass,Glass containers for conveyance
+7011,70,brown,Stone / Glass,Glass envelopes
+7012,70,brown,Stone / Glass,Other
+7013,70,brown,Stone / Glass,Glassware for interior decorative use
+7014,70,brown,Stone / Glass,Signaling glassware
+7015,70,brown,Stone / Glass,Clock or watch glasses and similar glasses
+7016,70,brown,Stone / Glass,Glass paving blocks or other molded products
+7017,70,brown,Stone / Glass,"Laboratory, hygienic or pharmaceutical glassware"
+7018,70,brown,Stone / Glass,Glass beads
+7019,70,brown,Stone / Glass,Glass fibers
+7020,70,brown,Stone / Glass,Other articles of glass
+7101,71,brown,Stone / Glass,Pearls
+7102,71,brown,Stone / Glass,Diamonds
+7103,71,brown,Stone / Glass,Precious stones
+7104,71,brown,Stone / Glass,Synthetic precious stones
+7105,71,brown,Stone / Glass,Diamond dust
+7106,71,brown,Stone / Glass,Silver
+7107,71,brown,Stone / Glass,Silver clad metals
+7108,71,brown,Stone / Glass,Gold
+7109,71,brown,Stone / Glass,Gold clad metals
+7110,71,brown,Stone / Glass,Platinum
+7111,71,brown,Stone / Glass,Platinum clad metals
+7112,71,brown,Stone / Glass,Scrap of precious metal
+7113,71,brown,Stone / Glass,Jewelry of precious metal
+7114,71,brown,Stone / Glass,Goldsmith and silversmith wares
+7115,71,brown,Stone / Glass,Other articles of precious metals
+7116,71,brown,Stone / Glass,Articles of precious stones
+7117,71,brown,Stone / Glass,Imitation jewelry
+7118,71,brown,Stone / Glass,Coin
+7201,72,red,Metals,Pig iron
+7202,72,red,Metals,Ferroalloys
+7203,72,red,Metals,Ferrous products from the reduction of iron ore
+7204,72,red,Metals,Ferrous waste and scrap
+7205,72,red,Metals,Powders of iron or steel
+7206,72,red,Metals,Iron and nonalloy steel
+7207,72,red,Metals,Semifinished products of iron or nonalloy steel
+7208,72,red,Metals,"Flat-rolled iron, width > 600mm, hot-rolled, not clad"
+7209,72,red,Metals,"Flat-rolled iron, width > 600mm, cold-rolled, not clad"
+7210,72,red,Metals,"Flat rolled iron, width > 600mm, clad"
+7211,72,red,Metals,"Flat-rolled iron, width < 600mm, not clad"
+7212,72,red,Metals,"Flat-rolled iron, width < 600mm, clad"
+7213,72,red,Metals,Hot rolled bars of iron
+7214,72,red,Metals,"Other bars of iron, not further worked than forged"
+7215,72,red,Metals,Other bars and rods of iron or nonalloy steel
+7216,72,red,Metals,Angles of iron or nonalloy steel
+7217,72,red,Metals,Wire of iron or nonalloy steel
+7218,72,red,Metals,Stainless steel in ingots
+7219,72,red,Metals,Flat-rolled products of stainless steel of a width > 600 mm
+7220,72,red,Metals,Flat-rolled products of stainless steel of a width < 600 mm
+7221,72,red,Metals,"Bars of stainless steel, hot-rolled"
+7222,72,red,Metals,Other bars and rods of stainless steel
+7223,72,red,Metals,Wire of stainless steel
+7224,72,red,Metals,Other alloy steel in primary form
+7225,72,red,Metals,"Flat-rolled products of other alloy steel, width > 600 mm"
+7226,72,red,Metals,"Flat-rolled products of other alloy steel, width < 600 mm"
+7227,72,red,Metals,Bars of other alloy steel
+7228,72,red,Metals,Other bars and rods of other alloy steel
+7229,72,red,Metals,Wire of other alloy steel
+7301,73,red,Metals,Sheet piling of iron or steel
+7302,73,red,Metals,Railway construction material of iron or steel
+7303,73,red,Metals,Tubes of cast iron
+7304,73,red,Metals,"Tubes, seamless, of iron or steel"
+7305,73,red,Metals,"Other tubes and pipes, diameter > 406.4 mm, of iron or steel"
+7306,73,red,Metals,"Other tubes, pipes and hollow profiles of iron or steel"
+7307,73,red,Metals,Tube or pipe fittings of iron or steel
+7308,73,red,Metals,"Structures and their parts, of iron or steel"
+7309,73,red,Metals,"Tanks etc. > 300 liters, iron or steel"
+7310,73,red,Metals,"Tanks etc. < 300 liters, iron or steel"
+7311,73,red,Metals,Containers for compressed or liquified gas
+7312,73,red,Metals,"Wire of iron or steel, not insulated"
+7313,73,red,Metals,Barbed wire of iron or steel
+7314,73,red,Metals,Cloth of iron or steel wire
+7315,73,red,Metals,Chain of iron or steel
+7316,73,red,Metals,Anchors of iron or steel
+7317,73,red,Metals,Nails and similar articles of iron or steel
+7318,73,red,Metals,Screws and similar articles of iron or steel
+7319,73,red,Metals,Articles for sewing of iron or steel
+7320,73,red,Metals,Springs of iron or steel
+7321,73,red,Metals,Stoves and similar non-electric appliances of iron or steel
+7322,73,red,Metals,Radiators for central heating of iron or steel
+7323,73,red,Metals,Household articles of iron or steel
+7324,73,red,Metals,Sanitary ware and parts of iron or steel
+7325,73,red,Metals,Other cast articles of iron or steel
+7326,73,red,Metals,Other articles of iron or steel
+7401,74,red,Metals,Copper mattes
+7402,74,red,Metals,Unrefined copper
+7403,74,red,Metals,Refined copper and copper alloys
+7404,74,red,Metals,Copper waste and scrap
+7405,74,red,Metals,Master alloys of copper
+7406,74,red,Metals,Copper powders and flakes
+7407,74,red,Metals,"Copper bars, rods and profiles"
+7408,74,red,Metals,Copper wire
+7409,74,red,Metals,"Copper plates, sheets and strip > 0.15 mm"
+7410,74,red,Metals,Copper foil < 0.15 mm thick
+7411,74,red,Metals,Copper tubes and pipes
+7412,74,red,Metals,Copper tube or pipe fittings
+7413,74,red,Metals,"Copper wire, uninsulated"
+7414,74,red,Metals,Other
+7415,74,red,Metals,Screws and similar articles of copper
+7416,74,red,Metals,Copper springs
+7417,74,red,Metals,Other
+7418,74,red,Metals,Household articles of copper
+7419,74,red,Metals,Other articles of copper
+7501,75,red,Metals,Nickel mattes
+7502,75,red,Metals,Nickel unwrought
+7503,75,red,Metals,Nickel waste and scrap
+7504,75,red,Metals,Nickel powders
+7505,75,red,Metals,"Nickel bars, wire etc."
+7506,75,red,Metals,Nickel plates
+7507,75,red,Metals,Nickel tubes and pipes
+7508,75,red,Metals,Other articles of nickel
+7601,76,red,Metals,Unwrought aluminum
+7602,76,red,Metals,"Waste or scrap, aluminium"
+7603,76,red,Metals,Aluminum powders
+7604,76,red,Metals,Aluminum bars
+7605,76,red,Metals,Aluminum wire
+7606,76,red,Metals,Aluminum plates > 0.2 mm
+7607,76,red,Metals,Aluminum foil < 0.2 mm
+7608,76,red,Metals,Aluminum tubes and pipes
+7609,76,red,Metals,Aluminum tube or pipe fittings
+7610,76,red,Metals,"Aluminum structures (bridges, towers etc)"
+7611,76,red,Metals,"Aluminum containers, >300 liters"
+7612,76,red,Metals,"Aluminum containers, <300 liters"
+7613,76,red,Metals,Aluminum containers for compressed or liquefied gas
+7614,76,red,Metals,"Aluminum wire, not insulated"
+7615,76,red,Metals,Household articles of aluminum
+7616,76,red,Metals,Other articles of aluminum
+7801,78,red,Metals,Lead refined unwrought
+7802,78,red,Metals,Lead waste or scrap
+7803,78,red,Metals,Other
+7804,78,red,Metals,Lead foil <2mm
+7805,78,red,Metals,"Lead tubes, pipes and fittings"
+7806,78,red,Metals,Other articles of lead
+7901,79,red,Metals,Unwrought zinc
+7902,79,red,Metals,Zinc waste and scrap
+7903,79,red,Metals,Zinc powders
+7904,79,red,Metals,Zinx bars and wire
+7905,79,red,Metals,Zinc plates and foil
+7906,79,red,Metals,Other
+7907,79,red,Metals,Other articles of zinc
+8001,80,red,Metals,Unwrought tin
+8002,80,red,Metals,Tin waste and scrap
+8003,80,red,Metals,Tin bars and wire
+8004,80,red,Metals,Other
+8005,80,red,Metals,Other
+8006,80,red,Metals,Other
+8007,80,red,Metals,Other articles of tin
+8101,81,red,Metals,Tungsten (wolfram)
+8102,81,red,Metals,Molybdenum
+8103,81,red,Metals,Tantalum
+8104,81,red,Metals,Magnesium
+8105,81,red,Metals,Cobalt
+8106,81,red,Metals,Bismuth
+8107,81,red,Metals,Cadmium
+8108,81,red,Metals,Titanium
+8109,81,red,Metals,Zirconium
+8110,81,red,Metals,Antimony
+8111,81,red,Metals,Manganese
+8112,81,red,Metals,Other metals
+8113,81,red,Metals,Cermets
+8201,82,red,Metals,Handtools for gardening
+8202,82,red,Metals,Handsaws
+8203,82,red,Metals,"Pliers, pincers and other metal handtools"
+8204,82,red,Metals,Wrenches
+8205,82,red,Metals,Hand tools n.e.c.
+8206,82,red,Metals,Retail tool sets
+8207,82,red,Metals,Interchangeable tools for hand tools
+8208,82,red,Metals,Knives and blades for machines
+8209,82,red,Metals,"Articles for utensils, of cermet"
+8210,82,red,Metals,"Hand-operated appliances, food preparation, <10kg"
+8211,82,red,Metals,Knife sets
+8212,82,red,Metals,Razors
+8213,82,red,Metals,Scissors
+8214,82,red,Metals,Other cutlery
+8215,82,red,Metals,Cutlery
+8301,83,red,Metals,Padlocks and locks
+8302,83,red,Metals,"Base metal mountings, fittings and similar articles"
+8303,83,red,Metals,Safes
+8304,83,red,Metals,"Paper trays and similar office equipment, of base metal"
+8305,83,red,Metals,"Paper clips and similar office articles, of metal"
+8306,83,red,Metals,"Ornaments, statuettes, etc. of metal"
+8307,83,red,Metals,Flexible tubing of base metal
+8308,83,red,Metals,"Clasps, buckles etc. of metal"
+8309,83,red,Metals,"Stoppers, caps and lids of metal"
+8310,83,red,Metals,Sign plates and similar plates of base metal
+8311,83,red,Metals,Wire etc. used for welding
+8401,84,lightblue,Machinery / Electrical,Nuclear reactors and related equipment
+8402,84,lightblue,Machinery / Electrical,Steam boilers
+8403,84,lightblue,Machinery / Electrical,Central heating boilers
+8404,84,lightblue,Machinery / Electrical,Auxiliary parts for use with boilers
+8405,84,lightblue,Machinery / Electrical,Water gas generators
+8406,84,lightblue,Machinery / Electrical,Steam turbines
+8407,84,lightblue,Machinery / Electrical,Spark-ignition reciprocating internal combustion piston engines
+8408,84,lightblue,Machinery / Electrical,Compression-ignition internal combustion piston engines
+8409,84,lightblue,Machinery / Electrical,Parts suitable for use with spark-ignition engines
+8410,84,lightblue,Machinery / Electrical,"Hydraulic turbines, water wheels and regulators"
+8411,84,lightblue,Machinery / Electrical,Gas turbines
+8412,84,lightblue,Machinery / Electrical,Other engines and motors
+8413,84,lightblue,Machinery / Electrical,Pumps for liquids
+8414,84,lightblue,Machinery / Electrical,"Pumps, compressors, fans, etc."
+8415,84,lightblue,Machinery / Electrical,Air conditioners
+8416,84,lightblue,Machinery / Electrical,Furnace burners
+8417,84,lightblue,Machinery / Electrical,Industrial furnaces
+8418,84,lightblue,Machinery / Electrical,"Refrigerators, freezers"
+8419,84,lightblue,Machinery / Electrical,Equipment for temperature change of materials
+8420,84,lightblue,Machinery / Electrical,"Calendering or other rolling machines, other than for metals or glass"
+8421,84,lightblue,Machinery / Electrical,Centrifuges
+8422,84,lightblue,Machinery / Electrical,Dish washing machines
+8423,84,lightblue,Machinery / Electrical,Weighing machinery
+8424,84,lightblue,Machinery / Electrical,Sprays and powder dispersers
+8425,84,lightblue,Machinery / Electrical,Pulleys and winches
+8426,84,lightblue,Machinery / Electrical,Ships' derricks; cranes
+8427,84,lightblue,Machinery / Electrical,Fork-lift trucks
+8428,84,lightblue,Machinery / Electrical,Other lifting machinery
+8429,84,lightblue,Machinery / Electrical,"Self-propelled bulldozers, excavators and road rollers"
+8430,84,lightblue,Machinery / Electrical,"Other moving, excavating or boring machinery"
+8431,84,lightblue,Machinery / Electrical,Parts for use with hoists and excavation machinery
+8432,84,lightblue,Machinery / Electrical,Machinery for soil preparation or cultivation
+8433,84,lightblue,Machinery / Electrical,Harvesting or agricultural machinery
+8434,84,lightblue,Machinery / Electrical,Dairy machinery
+8435,84,lightblue,Machinery / Electrical,Machines for wine and juice production
+8436,84,lightblue,Machinery / Electrical,Other agricultural machinery
+8437,84,lightblue,Machinery / Electrical,Machinery for processing grain
+8438,84,lightblue,Machinery / Electrical,Machinery for the industrial preparation of food or drink
+8439,84,lightblue,Machinery / Electrical,Machinery for making paper
+8440,84,lightblue,Machinery / Electrical,Bookbinding machinery
+8441,84,lightblue,Machinery / Electrical,Other machinery for making paper
+8442,84,lightblue,Machinery / Electrical,Machinery for making printing components
+8443,84,lightblue,Machinery / Electrical,Printers and copiers
+8444,84,lightblue,Machinery / Electrical,"Machines to extrude, cut manmade textile fibres"
+8445,84,lightblue,Machinery / Electrical,Machines for preparing textile fibers
+8446,84,lightblue,Machinery / Electrical,Looms
+8447,84,lightblue,Machinery / Electrical,Knitting machines
+8448,84,lightblue,Machinery / Electrical,Auxiliary machinery for use with knitting and textile machines
+8449,84,lightblue,Machinery / Electrical,Machinery to manufacture felt
+8450,84,lightblue,Machinery / Electrical,Household- or laundry-type washing machines
+8451,84,lightblue,Machinery / Electrical,Machinery for processing fabrics
+8452,84,lightblue,Machinery / Electrical,Sewing machines
+8453,84,lightblue,Machinery / Electrical,Machinery for preparing leather
+8454,84,lightblue,Machinery / Electrical,Machines used in metallurgy
+8455,84,lightblue,Machinery / Electrical,Metal-rolling mills
+8456,84,lightblue,Machinery / Electrical,Machines for working materials by laser and similar means
+8457,84,lightblue,Machinery / Electrical,Machining centers for working metal
+8458,84,lightblue,Machinery / Electrical,Lathes for removing metal
+8459,84,lightblue,Machinery / Electrical,Machine tools for drilling by removing metal
+8460,84,lightblue,Machinery / Electrical,Machines with grinding stones for finishing metal
+8461,84,lightblue,Machinery / Electrical,Other machine tools for planing and cutting metals
+8462,84,lightblue,Machinery / Electrical,Machine tools for molding and forging metals
+8463,84,lightblue,Machinery / Electrical,"Other machine tools for working metal, without removal"
+8464,84,lightblue,Machinery / Electrical,Machine tools for working stone
+8465,84,lightblue,Machinery / Electrical,Machine tools for working wood
+8466,84,lightblue,Machinery / Electrical,Parts and accessories for metal working machines
+8467,84,lightblue,Machinery / Electrical,"Tools for hand working, pneumatic, hydraulic motors"
+8468,84,lightblue,Machinery / Electrical,Machinery for soldering
+8469,84,lightblue,Machinery / Electrical,Word processing machines
+8470,84,lightblue,Machinery / Electrical,"Cash registers, calculators, etc."
+8471,84,lightblue,Machinery / Electrical,Computers
+8472,84,lightblue,Machinery / Electrical,Other office machines
+8473,84,lightblue,Machinery / Electrical,Parts and accessories for office machines
+8474,84,lightblue,Machinery / Electrical,Machinery for working minerals
+8475,84,lightblue,Machinery / Electrical,Machines for assembling electric lamps
+8476,84,lightblue,Machinery / Electrical,Automatic goods-vending machines
+8477,84,lightblue,Machinery / Electrical,Machinery for working rubber or plastics
+8478,84,lightblue,Machinery / Electrical,Machinery for preparing tobacco
+8479,84,lightblue,Machinery / Electrical,Machines n.e.c.
+8480,84,lightblue,Machinery / Electrical,Molding boxes for metal foundry
+8481,84,lightblue,Machinery / Electrical,Appliances for thermostatically controlled valves
+8482,84,lightblue,Machinery / Electrical,Ball or roller bearings
+8483,84,lightblue,Machinery / Electrical,Transmission shafts
+8484,84,lightblue,Machinery / Electrical,Gaskets and similar joints of metal sheeting
+8485,84,lightblue,Machinery / Electrical,"Machinery parts, not containing electrical features, n.e.c."
+8501,85,lightblue,Machinery / Electrical,Electric motors and generators
+8502,85,lightblue,Machinery / Electrical,Electric generating sets and rotary converters
+8503,85,lightblue,Machinery / Electrical,Parts for use with electric generators
+8504,85,lightblue,Machinery / Electrical,Electrical transformers
+8505,85,lightblue,Machinery / Electrical,Electromagnets
+8506,85,lightblue,Machinery / Electrical,Primary cells and primary batteries
+8507,85,lightblue,Machinery / Electrical,Batteries
+8508,85,lightblue,Machinery / Electrical,Vacuum cleaners
+8509,85,lightblue,Machinery / Electrical,Electromechanical domestic appliances
+8510,85,lightblue,Machinery / Electrical,Electric shavers and hair clippers
+8511,85,lightblue,Machinery / Electrical,Electrical ignition equipment
+8512,85,lightblue,Machinery / Electrical,Electrical lighting equipment used for motor vehicles
+8513,85,lightblue,Machinery / Electrical,Portable electric lamps
+8514,85,lightblue,Machinery / Electrical,Industrial electric furnaces
+8515,85,lightblue,Machinery / Electrical,Electric soldering machines
+8516,85,lightblue,Machinery / Electrical,Electric heaters
+8517,85,lightblue,Machinery / Electrical,Telephones
+8518,85,lightblue,Machinery / Electrical,Microphones
+8519,85,lightblue,Machinery / Electrical,Sound reproducing apparatus
+8520,85,lightblue,Machinery / Electrical,Magnetic tape recorders
+8521,85,lightblue,Machinery / Electrical,Video recording apparatus
+8522,85,lightblue,Machinery / Electrical,Parts and accessories for video or sound equipment
+8523,85,lightblue,Machinery / Electrical,Sound storage media
+8524,85,lightblue,Machinery / Electrical,"Tapes, cassettes, records and compact disks"
+8525,85,lightblue,Machinery / Electrical,"Transmission apparatus for radio, telephone and TV"
+8526,85,lightblue,Machinery / Electrical,Radar
+8527,85,lightblue,Machinery / Electrical,Reception apparatus for radio broadcasting
+8528,85,lightblue,Machinery / Electrical,Monitors and projectors
+8529,85,lightblue,Machinery / Electrical,"Parts of radios, telephones, and T.V.s"
+8530,85,lightblue,Machinery / Electrical,Electric signal and traffic controls
+8531,85,lightblue,Machinery / Electrical,Electric sound or visual signaling apparatus
+8532,85,lightblue,Machinery / Electrical,Electrical capacitors
+8533,85,lightblue,Machinery / Electrical,Electrical resistors
+8534,85,lightblue,Machinery / Electrical,Electronic printed circuits
+8535,85,lightblue,Machinery / Electrical,Electrical apparatus for > 1k volts
+8536,85,lightblue,Machinery / Electrical,Electrical apparatus for < 1k volts
+8537,85,lightblue,Machinery / Electrical,Electrical boards
+8538,85,lightblue,Machinery / Electrical,Parts for electrical apparatus
+8539,85,lightblue,Machinery / Electrical,Electrical filament
+8540,85,lightblue,Machinery / Electrical,"Thermionic, cold cathode or photocathode tubes"
+8541,85,lightblue,Machinery / Electrical,Semiconductor devices
+8542,85,lightblue,Machinery / Electrical,Electronic integrated circuits
+8543,85,lightblue,Machinery / Electrical,Electrical machines with individual functions n.e.c.
+8544,85,lightblue,Machinery / Electrical,Insulated electrical wire
+8545,85,lightblue,Machinery / Electrical,Carbon articles for eletrical purposes
+8546,85,lightblue,Machinery / Electrical,Electrical insulators of any material
+8547,85,lightblue,Machinery / Electrical,Insulating fittings for electrical machines
+8548,85,lightblue,Machinery / Electrical,Waste and scrap of batteries
+8601,86,purple,Transportation,Electric trains
+8602,86,purple,Transportation,Other rail locomotives
+8603,86,purple,Transportation,Self-propelled railway coaches
+8604,86,purple,Transportation,Railway service vehicles
+8605,86,purple,Transportation,"Railway coaches, not self-propelled"
+8606,86,purple,Transportation,"Railway cars, not self-propelled"
+8607,86,purple,Transportation,Parts of railway locomotives
+8608,86,purple,Transportation,Railway track fixtures
+8609,86,purple,Transportation,Containers for multimodal transportation
+8701,87,purple,Transportation,Tractors
+8702,87,purple,Transportation,Buses
+8703,87,purple,Transportation,Cars
+8704,87,purple,Transportation,Motor vehicles for transporting goods
+8705,87,purple,Transportation,Special purpose motor vehicles
+8706,87,purple,Transportation,Vehicle chassis fitted with engines
+8707,87,purple,Transportation,Vehicle Bodies
+8708,87,purple,Transportation,Parts of motor vehicles
+8709,87,purple,Transportation,Work trucks
+8710,87,purple,Transportation,Tanks and other armored fighting vehicles
+8711,87,purple,Transportation,Motorcycles
+8712,87,purple,Transportation,Bicycles
+8713,87,purple,Transportation,Wheelchairs
+8714,87,purple,Transportation,Parts of motorcycles or wheelchairs
+8715,87,purple,Transportation,Baby carriages
+8716,87,purple,Transportation,Trailers and semi-trailers
+8801,88,purple,Transportation,"Gliders, hang gliders"
+8802,88,purple,Transportation,Other aircraft and spacecraft
+8803,88,purple,Transportation,Parts of other aircraft
+8804,88,purple,Transportation,Parachutes
+8805,88,purple,Transportation,Aircraft launching gear
+8901,89,purple,Transportation,Cargo ships and similar vessels
+8902,89,purple,Transportation,Fishing vessels
+8903,89,purple,Transportation,Pleasure or sport boats
+8904,89,purple,Transportation,Tugs and pusher craft
+8905,89,purple,Transportation,"Special function vessels, n.e.c."
+8906,89,purple,Transportation,Other vessels
+8907,89,purple,Transportation,Other floating structures
+8908,89,purple,Transportation,Floating structures for scrapping
+9001,90,darkblue,Miscellaneous,Optical fibers
+9002,90,darkblue,Miscellaneous,Lenses and other optical elements
+9003,90,darkblue,Miscellaneous,"Frames for spectacles, goggles"
+9004,90,darkblue,Miscellaneous,Glasses
+9005,90,darkblue,Miscellaneous,Binoculars and telescopes
+9006,90,darkblue,Miscellaneous,Photographic cameras
+9007,90,darkblue,Miscellaneous,Cinematographic cameras and projectors
+9008,90,darkblue,Miscellaneous,Still image projectors
+9009,90,darkblue,Miscellaneous,Electrostatic photo-copyers
+9010,90,darkblue,Miscellaneous,"Apparatus and equipment for photographic laboratories, n.e.c."
+9011,90,darkblue,Miscellaneous,Optical microscopes
+9012,90,darkblue,Miscellaneous,"Microscopes, other than optical"
+9013,90,darkblue,Miscellaneous,Liquid crystal devices
+9014,90,darkblue,Miscellaneous,Navigational instruments
+9015,90,darkblue,Miscellaneous,Surveying instruments
+9016,90,darkblue,Miscellaneous,Balances of a sensitivity < 50 milligram
+9017,90,darkblue,Miscellaneous,Drafting tables and machines
+9018,90,darkblue,Miscellaneous,Medical instruments
+9019,90,darkblue,Miscellaneous,Therapy applicances
+9020,90,darkblue,Miscellaneous,Other breathing appliances and gas masks
+9021,90,darkblue,Miscellaneous,Orthopedic appliances
+9022,90,darkblue,Miscellaneous,X-ray machines
+9023,90,darkblue,Miscellaneous,Instruments designed for demonstrational purposes
+9024,90,darkblue,Miscellaneous,Machines for testing the mechanical properties of materials
+9025,90,darkblue,Miscellaneous,"Thermometers, hydrometers etc."
+9026,90,darkblue,Miscellaneous,Instruments for measuring properties of liquids or gases
+9027,90,darkblue,Miscellaneous,Instruments for physical or chemical analysis
+9028,90,darkblue,Miscellaneous,"Gas, liquid or electricity meters"
+9029,90,darkblue,Miscellaneous,Meters
+9030,90,darkblue,Miscellaneous,Instruments for measuring electricity
+9031,90,darkblue,Miscellaneous,Measuring instruments
+9032,90,darkblue,Miscellaneous,Automatic regulating instruments
+9033,90,darkblue,Miscellaneous,Other parts for machines and appliances
+9101,91,darkblue,Miscellaneous,Watches with precious metal
+9102,91,darkblue,Miscellaneous,Watches
+9103,91,darkblue,Miscellaneous,Clocks with watch movements
+9104,91,darkblue,Miscellaneous,Instrument panel clocks for vehicles
+9105,91,darkblue,Miscellaneous,Other clocks
+9106,91,darkblue,Miscellaneous,Apparatus for measuring intervals of time
+9107,91,darkblue,Miscellaneous,Time switches
+9108,91,darkblue,Miscellaneous,"Watch movements, complete"
+9109,91,darkblue,Miscellaneous,"Clock movements, complete"
+9110,91,darkblue,Miscellaneous,"Clock movements, complete, unassembled"
+9111,91,darkblue,Miscellaneous,Watch cases and parts
+9112,91,darkblue,Miscellaneous,Clock cases
+9113,91,darkblue,Miscellaneous,Watch straps
+9114,91,darkblue,Miscellaneous,Other clock or watch parts
+9201,92,darkblue,Miscellaneous,Pianos
+9202,92,darkblue,Miscellaneous,"Musical instruments, string"
+9203,92,darkblue,Miscellaneous,"Harmoniums, pipe organs, etc"
+9204,92,darkblue,Miscellaneous,Other
+9205,92,darkblue,Miscellaneous,"Musical instruments, wind"
+9206,92,darkblue,Miscellaneous,"Musical instruments, percussion"
+9207,92,darkblue,Miscellaneous,"Musical instruments, electric"
+9208,92,darkblue,Miscellaneous,"Other musical instruments, n.e.c."
+9209,92,darkblue,Miscellaneous,Parts of musical instruments
+9301,93,darkblue,Miscellaneous,"Military weapons, other than pistols and swords"
+9302,93,darkblue,Miscellaneous,Revolvers and pistols
+9303,93,darkblue,Miscellaneous,Other firearms
+9304,93,darkblue,Miscellaneous,"Other arms (air guns, truncheons, etc.)"
+9305,93,darkblue,Miscellaneous,Parts of military weapons
+9306,93,darkblue,Miscellaneous,Munitions of war
+9307,93,darkblue,Miscellaneous,Swords
+9401,94,darkblue,Miscellaneous,Seats
+9402,94,darkblue,Miscellaneous,"Medical, dental or veterinary furniture"
+9403,94,darkblue,Miscellaneous,Other furniture and parts
+9404,94,darkblue,Miscellaneous,Mattresses and bedding
+9405,94,darkblue,Miscellaneous,Lamps
+9406,94,darkblue,Miscellaneous,Prefabricated buildings
+9501,95,darkblue,Miscellaneous,"Rideable wheeled toys, dolls carriages"
+9502,95,darkblue,Miscellaneous,Dolls
+9503,95,darkblue,Miscellaneous,Toys
+9504,95,darkblue,Miscellaneous,Games
+9505,95,darkblue,Miscellaneous,Christmas and other festivity articles
+9506,95,darkblue,Miscellaneous,Sports equipment
+9507,95,darkblue,Miscellaneous,Fishing and hunting equipment
+9508,95,darkblue,Miscellaneous,Fairground amusements
+9601,96,darkblue,Miscellaneous,Worked animal carving material
+9602,96,darkblue,Miscellaneous,Worked vegetable or mineral carving material
+9603,96,darkblue,Miscellaneous,Brooms and mops
+9604,96,darkblue,Miscellaneous,Hand sieves and riddles
+9605,96,darkblue,Miscellaneous,Travel sets
+9606,96,darkblue,Miscellaneous,Buttons
+9607,96,darkblue,Miscellaneous,Slide fasteners
+9608,96,darkblue,Miscellaneous,Pens
+9609,96,darkblue,Miscellaneous,"Pencils, crayons, pastels, etc."
+9610,96,darkblue,Miscellaneous,"Slates and boards, with writing or drawing surfaces"
+9611,96,darkblue,Miscellaneous,Hand-operated stamps
+9612,96,darkblue,Miscellaneous,Typewriter ribbons and ink pads
+9613,96,darkblue,Miscellaneous,Cigarette lighters
+9614,96,darkblue,Miscellaneous,Smoking pipes
+9615,96,darkblue,Miscellaneous,"Combs, hair-slides etc."
+9616,96,darkblue,Miscellaneous,Scent sprays
+9617,96,darkblue,Miscellaneous,Vacuum vessels
+9618,96,darkblue,Miscellaneous,Mannequins
+9701,97,darkblue,Miscellaneous,Paintings and drawings
+9702,97,darkblue,Miscellaneous,Original engravings
+9703,97,darkblue,Miscellaneous,Sculptures
+9704,97,darkblue,Miscellaneous,Postage or revenue stamps
+9705,97,darkblue,Miscellaneous,Collectors pieces
+9706,97,darkblue,Miscellaneous,Antiques >100 years
+9999,99,darkblue,Miscellaneous,Commodities not specified according to kind
